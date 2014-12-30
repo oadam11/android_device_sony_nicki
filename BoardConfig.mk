@@ -57,7 +57,7 @@ TARGET_KERNEL_CONFIG := cyanogenmod_nicki_defconfig
 
 
 # Custom Kernel Toolchain
-TARGET_GCC_VERSION_ARM := 4.9-sm
+
 # Graphite optimizations
 SYMMETRY := true
 GRAPHITE_OPTS := true
